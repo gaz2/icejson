@@ -10,7 +10,7 @@
       "category": "IceMashineCube",
       "percentage": "10 кг",
       "aboutice": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.            ",
-      "quantity": 10
+      "quantity": 1
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "category": "IceMashineCube",
       "percentage": "10 кг",
       "aboutice": "Небольшие кубики весом 12г. Универсальный лёд для охлаждения напитков и коктейлей.       ",
-      "quantity": 10
+      "quantity": 1
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "category": "IceMashineCube",
       "percentage": "10 кг",
       "aboutice": "Пищевой конусный лед премиального качества Scotsman в виде полнотелых цилиндров весом 20г.",
-      "quantity": 10
+      "quantity": 1
     },
     {
       "id": 4,
@@ -46,19 +46,19 @@
       "category": "IceHandMade",
       "percentage": "10 кг",
       "aboutice": "Дроблёный лёд мелкая фракция 3-5мм.Очень быстро охлаждает напитки и коктейли              ",
-      "quantity": 10
+      "quantity": 1
     },
     {
       "id": 5,
       "name": "Фасованный   ",
       "route": "ice-fasovka",
-      "price": 40.00,
+      "price": 400.00,
       "src": "/iceBag10.jpg",
       "available": true,
       "category": "IceMashineCube",
       "percentage": "10 кг",
       "aboutice": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.             ",
-      "quantity": 10
+      "quantity": 1
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
       "category": "HandMade",
       "percentage": "16 шт",
       "aboutice": "Лёд правильной кубической формы ручной работы 5 см на 5 см.                               ",
-      "quantity": 16
+      "quantity": 1
     },
     {
       "id": 8,
@@ -94,7 +94,7 @@
       "category": "HandMade",
       "percentage": "16 шт",
       "aboutice": "Лёд правильной кубической формы ручной работы с цветком внутри 5 см на 5 см.              ",
-      "quantity": 16
+      "quantity": 1
     },
     {
       "id": 9, 
@@ -106,7 +106,7 @@
       "category": "HandMade",
       "percentage": "12 шт",
       "aboutice": "Шар ручной работы диаметр 6 см. Фасовка по 20 шт.                                         ",
-      "quantity": 12
+      "quantity": 1
     },
     {
       "id": 10,
@@ -118,7 +118,7 @@
       "category": "HandMade",
       "percentage": "12 шт",
       "aboutice": "Шар ручной работы с цветком внутри диаметр 6 см. Фасовка по 20 шт.                        ",
-      "quantity": 12
+      "quantity": 1
     },
     {
       "id": 11,
@@ -130,7 +130,7 @@
       "category": "HandMade",
       "percentage": "20 шт",
       "aboutice": "Брусок ручной работы размеры 3*3*13 см. Фасовка по 20 шт.                                 ",
-      "quantity": 20
+      "quantity": 1
     },
     {
       "id": 12,
@@ -142,7 +142,7 @@
       "category": "HandMade",
       "percentage": "20 шт",
       "aboutice": "Брусок ручной работы размеры 4*4*10 см. Фасовка по 20 шт.                                ",
-      "quantity": 20
+      "quantity": 1
     },
     {
       "id": 13,
