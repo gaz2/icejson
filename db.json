@@ -5,7 +5,7 @@
       "name": "Хошизаки",
       "route": "hoshizaki",
       "price": 400.00,
-      "src": "/hoshizakiIce.jpg",
+      "src": "https://github.com/gaz2/icejson/blob/main/hoshizaki1.jpg",
       "available": true,
       "category": "IceMashineCube",
       "percentage": "10 кг",
