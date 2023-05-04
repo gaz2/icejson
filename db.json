@@ -172,7 +172,7 @@
       "id": 15,
       "name": "Клише",
       "route": "klishe",
-      "price": 40.00,
+      "price": 400.00,
       "src": "/klisheIce.jpg",
       "available": true,
       "category": "инвентарь",
