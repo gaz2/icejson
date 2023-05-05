@@ -147,7 +147,7 @@
     {
       "id": 13,
       "name": "Термоконтейнер",
-      "route": "termo",
+      "route": "termokontainer",
       "price": 500.00,
       "src": "/termoBox.jpg",
       "available": true,
