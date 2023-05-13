@@ -5,7 +5,7 @@
       "name": "Хошизаки",
       "route": "hoshizaki",
       "price": 400.00,
-      "src": "/hoshizaki1.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
       "available": true,
       "category": "Хошизаки",
       "percentage": "10 кг",
