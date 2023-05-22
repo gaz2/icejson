@@ -43,7 +43,6 @@
       "route": "crushed",
       "price": 400.00,
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/crushice.jpg",
-      "available": true,
       "category": "Краш",
       "percentage": "10 кг",
       "description": "Премиальный лёд в форме правильного ",
