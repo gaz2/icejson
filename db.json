@@ -18,7 +18,6 @@
       "route": "gurme",
       "price": 350.00,
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
-      "available": true,
       "category": "Гурмэ",
       "percentage": "10 кг",
       "description": "Премиальный лёд в форме правильного ",
