@@ -20,8 +20,8 @@
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
       "category": "Гурмэ",
       "percentage": "10 кг",
-      "description": "Премиальный лёд в форме правильного ",
-      "description2": "кубика размером 32х32х32мм и весом 31 г.",
+      "description": "Стандартные прямоугольные кубики премиум",
+      "description2": "класса размером 30х34х34мм и весом 22 г.",
       "quantity": 1
     },
     {
@@ -33,8 +33,8 @@
       "available": true,
       "category": "Скотсмен",
       "percentage": "10 кг",
-      "description": "Премиальный лёд в форме правильного ",
-      "description2": "кубика размером 32х32х32мм и весом 31 г.",
+      "description": "Универсальный лёд для охлаждения напитков",
+      "description2": "кубики размером 23х23х26мм и весом 10-12 г.",
       "quantity": 1
     },
     {
@@ -45,8 +45,8 @@
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/crushice.jpg",
       "category": "Краш",
       "percentage": "10 кг",
-      "description": "Премиальный лёд в форме правильного ",
-      "description2": "кубика размером 32х32х32мм и весом 31 г.",
+      "description": "Дроблёный лёд мелкая фракция 3-5мм",
+      "description2": "Очень быстро охлаждает напитки.",
       "quantity": 1
     },
     {
@@ -58,8 +58,8 @@
       "available": true,
       "category": "Фасованный",
       "percentage": "10 кг",
-      "description": "Премиальный лёд в форме правильного ",
-      "description2": "кубика размером 32х32х32мм и весом 31 г.",
+      "description": "Фасованный лёд Гурмэ 3 кг 180 р.",
+      "description2": "Кубики размером 30х34х34мм и весом 22 г.",
       "quantity": 1
     },
     {
