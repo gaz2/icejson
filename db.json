@@ -8,9 +8,7 @@
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
       "category": "Хошизаки",
       "percentage": "10 кг",
-      "description":  "Премиальный лёд в форме правильного Размер кубика 32х32х32мм",
-      "description2": "Размер кубика 32х32х32мм ",
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
       "quantity": 1
     },
     {
@@ -21,11 +19,7 @@
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
       "category": "Гурмэ",
       "percentage": "10 кг",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Премиальный конусный лёд в виде полнотелых цилиндров размером 30х34мм и весом 20г",
       "quantity": 1
     },
     {
@@ -37,11 +31,7 @@
       "available": true,
       "category": "Скотсмен",
       "percentage": "10 кг",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Универсальный лёд для охлаждения коктейлей размером 23х23х26мм и весом 12г",
       "quantity": 1
     },
     {
@@ -52,11 +42,7 @@
       "src": "https://raw.githubusercontent.com/gaz2/icejson/main/crushice.jpg",
       "category": "Краш",
       "percentage": "10 кг",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Дроблёный лёд мелкая фракция 3-5мм. Используется для коктейлей и лимонадов",
       "quantity": 1
     },
     {
@@ -68,11 +54,7 @@
       "available": true,
       "category": "Фасованный",
       "percentage": "3 кг",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Премиальный конусный лёд в пищевом пакете весом 3кг. Кубики 30х34мм и весом 20г",
       "quantity": 1
     },
     {
@@ -80,15 +62,11 @@
       "name": "Куб 4Х4",
       "route": "cube-4x4-sm",
       "price": 320.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubebig1.jpg",
       "available": true,
       "category": "Куб 4Х4",
       "percentage": "20 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Крафтовый лёд ручной работы в виде куба размером 4х4 см и весом 100г",
       "quantity": 1
     },
     {
@@ -96,14 +74,10 @@
       "name": "Куб 5х5",
       "route": "cube-5x5-sm",
       "price": 400.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubeBigg.jpg",
       "category": "Куб 5х5",
       "percentage": "16 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Крафтовый лёд ручной работы в виде куба размером 5х5 см и весом 120г",
       "quantity": 1
     },
     {
@@ -111,15 +85,11 @@
       "name": "Куб с цветком",
       "route": "cube-s-cvetkom",
       "price": 400.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubeBigg.jpg",
       "available": true,
       "category": "Куб с цветком",
       "percentage": "16 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Крафтовый лёд ручной работы в виде куба размером 5х5 см и весом 120г",
       "quantity": 1
     },
     {
@@ -127,30 +97,21 @@
       "name": "Шар 6 см",
       "route": "shar-6-sm",
       "price": 600.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/shar1.jpg",
       "category": "Шар 6 см",
       "percentage": "12 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
-      "quantity": 1
+      "description":  "Кастомный лёд ручной работы диаметр 6 см. Фасовка по 20шт в пакетах.",
     },
     {
       "id": 10,
       "name": "Шар с цветком",
       "route": "shar-s-cvetkom",
       "price": 600.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/rozaIceBall.jpg",
       "available": true,
       "category": "Шар с цветком",
       "percentage": "12 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Кастомный лёд ручной работы с розой внутри. Фасовка по 20шт в пакетах.",
       "quantity": 1
     },
     {
@@ -158,15 +119,11 @@
       "name": "Брусок 3х3х13",
       "route": "brusok-3x3x13-sm",
       "price": 400.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/brussmll1.jpg",
       "available": true,
       "category": "Брусок 3х3х13",
       "percentage": "20 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Кастомный лёд ручной работы в виде бруска. Фасовка по 20шт в пакетах.",
       "quantity": 1
     },
     {
@@ -174,14 +131,10 @@
       "name": "Брусок 4х4х10",
       "route": "brusok-4x4x10-sm",
       "price": 400.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/brusbig1.jpg",
       "category": "Брусок 4х4х10",
       "percentage": "20 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Кастомный лёд ручной работы в виде бруска. Фасовка по 20шт в пакетах.",
       "quantity": 1
     },
     {
@@ -189,15 +142,11 @@
       "name": "Термоконтейнер",
       "route": "termokontainer",
       "price": 500.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/termoBox.jpg",
       "available": true,
       "category": "Термоконтейнер",
       "percentage": "1 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Термобокс для хранения льда. Можно приобрести со льдом.",
       "quantity": 1
     },
     {
@@ -205,12 +154,10 @@
       "name": "Совок",
       "route": "sovok",
       "price": 100.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/sovok.jpg",
       "category": "Совок",
       "percentage": "1 шт",
-      "description":  "Премиальный лёд в форме правильного",
-      "description2": "Размер кубика 32х32х32мм ",
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Совок пластиковый для льда. Можно заказать вместе с доставкой льда",
       "quantity": 1
     },
     {
@@ -218,14 +165,10 @@
       "name": "Клише",
       "route": "klishe",
       "price": 400.00,
-      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+      "src": "https://raw.githubusercontent.com/gaz2/icejson/main/klisheIce.jpg",
       "category": "Клише",
       "percentage": "1 шт",
-      "description":  "Премиальный лёд в форме правильного",
-
-      "description2": "Размер кубика 32х32х32мм ",
-
-      "description3": "Вес кубика 31 г. ",
+      "description":  "Клише с помощью которого можно сделать рисунок на крафтовых кубиках льда",
       "quantity": 1
     }
   ]
