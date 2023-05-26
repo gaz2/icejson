@@ -13,19 +13,158 @@
         "quantity": "1"
       },
       {
-        "name": "Cerveja",
-        "price": "12",
-        "quantity": "5"
+        "id": 2,
+        "name": "Гурмэ",
+        "route": "gurme",
+        "price": "350",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
+        "category": "Гурмэ",
+        "percentage": "10 кг",
+        "description":  "Премиальный конусный лёд в виде полнотелых цилиндров размером 30х34мм и весом 20г",
+        "quantity": "1"
       },
       {
-        "name": "Hamburguer",
-        "price": "10",
-        "quantity": "2"
+        "id": 3,
+        "name": "Скотсмен",
+        "route": "scotsman",
+        "price": "350",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/scotsmanIce2.jpg",
+        "category": "Скотсмен",
+        "percentage": "10 кг",
+        "description":  "Универсальный лёд для охлаждения коктейлей размером 23х23х26мм и весом 12г",
+        "quantity": "1"
       },
       {
-        "name": "Fraldas",
-        "price": "6",
-        "quantity": "2"
+        "id": 4,
+        "name": "Краш",
+        "route": "crushed",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/crushice.jpg",
+        "category": "Краш",
+        "percentage": "10 кг",
+        "description":  "Дроблёный лёд мелкая фракция 3-5мм. Используется для коктейлей и лимонадов",
+        "quantity": "1"
+      },
+      {
+        "id": 5,
+        "name": "Фасованный",
+        "route": "ice-fasovka",
+        "price": "180",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+        "category": "Фасованный",
+        "percentage": "3 кг",
+        "description":  "Премиальный конусный лёд в пищевом пакете весом 3кг. Кубики 30х34мм и весом 20г",
+        "quantity": "1"
+      },
+      {
+        "id": 6,
+        "name": "Куб 4Х4",
+        "route": "cube-4x4-sm",
+        "price": "320",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubebig1.jpg",
+        "category": "Куб 4Х4",
+        "percentage": "20 шт",
+        "description":  "Крафтовый лёд ручной работы в виде куба размером 4х4 см и весом 100г",
+        "quantity": "1"
+      },
+      {
+        "id": 7,
+        "name": "Куб 5х5",
+        "route": "cube-5x5-sm",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubeBigg.jpg",
+        "category": "Куб 5х5",
+        "percentage": "16 шт",
+        "description":  "Крафтовый лёд ручной работы в виде куба размером 5х5 см и весом 120г",
+        "quantity": "1"
+      },
+      {
+        "id": 8,
+        "name": "Куб с цветком",
+        "route": "cube-s-cvetkom",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubeBigg.jpg",
+        "category": "Куб с цветком",
+        "percentage": "16 шт",
+        "description":  "Крафтовый лёд ручной работы в виде куба размером 5х5 см и весом 120г",
+        "quantity": "1"
+      },
+      {
+        "id": 9, 
+        "name": "Шар 6 см",
+        "route": "shar-6-sm",
+        "price": 600.00,
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/shar1.jpg",
+        "category": "Шар 6 см",
+        "percentage": "12 шт",
+        "description":  "Кастомный лёд ручной работы диаметр 6 см. Фасовка по 20шт в пакетах.",
+      },
+      {
+        "id": 10,
+        "name": "Шар с цветком",
+        "route": "shar-s-cvetkom",
+        "price": 600.00,
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/rozaIceBall.jpg",
+        "category": "Шар с цветком",
+        "percentage": "12 шт",
+        "description":  "Кастомный лёд ручной работы с розой внутри. Фасовка по 20шт в пакетах.",
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "name": "Брусок 3х3х13",
+        "route": "brusok-3x3x13-sm",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/brussmll1.jpg",
+        "available": true,
+        "category": "Брусок 3х3х13",
+        "percentage": "20 шт",
+        "description":  "Кастомный лёд ручной работы в виде бруска. Фасовка по 20шт в пакетах.",
+        "quantity": "1"
+      },
+      {
+        "id": 12,
+        "name": "Брусок 4х4х10",
+        "route": "brusok-4x4x10-sm",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/brusbig1.jpg",
+        "category": "Брусок 4х4х10",
+        "percentage": "20 шт",
+        "description":  "Кастомный лёд ручной работы в виде бруска. Фасовка по 20шт в пакетах.",
+        "quantity": "1"
+      },
+      {
+        "id": 13,
+        "name": "Термоконтейнер",
+        "route": "termokontainer",
+        "price": "500",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/termoBox.jpg",
+        "category": "Термоконтейнер",
+        "percentage": "1 шт",
+        "description":  "Термобокс для хранения льда. Можно приобрести со льдом.",
+        "quantity": "1"
+      },
+      {
+        "id": 14,
+        "name": "Совок",
+        "route": "sovok",
+        "price": "100",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/sovok.jpg",
+        "category": "Совок",
+        "percentage": "1 шт",
+        "description":  "Совок пластиковый для льда. Можно заказать вместе с доставкой льда",
+        "quantity": "1"
+      },
+      {
+        "id": 15,
+        "name": "Клише",
+        "route": "klishe",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/klisheIce.jpg",
+        "category": "Клише",
+        "percentage": "1 шт",
+        "description":  "Клише с помощью которого можно сделать рисунок на крафтовых кубиках льда",
+        "quantity": "1"
       }
     ]
 }
