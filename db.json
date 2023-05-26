@@ -2,7 +2,7 @@
   "products": 
     [
       {
-        "id": 1,
+        "id": "1",
         "name": "Хошизаки",
         "route": "hoshizaki",
         "price": "400",
@@ -13,7 +13,7 @@
         "quantity": "1"
       },
       {
-        "id": 1,
+        "id": "1",
 
         "name": "Хошизаки",
 
