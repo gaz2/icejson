@@ -133,6 +133,28 @@
         "percentage": "20 шт",
         "description":  "Кастомный лёд ручной работы в виде бруска. Фасовка по 20шт в пакетах.",
         "quantity": "1"
+      },
+      {
+        "id": 13,
+        "name": "Термоконтейнер",
+        "route": "termokontainer",
+        "price": "500",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/termoBox.jpg",
+        "category": "Термоконтейнер",
+        "percentage": "1 шт",
+        "description":  "Термобокс для хранения льда. Можно приобрести со льдом.",
+        "quantity": "1"
+      },
+      {
+        "id": 14,
+        "name": "Совок",
+        "route": "sovok",
+        "price": "100",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/sovok.jpg",
+        "category": "Совок",
+        "percentage": "1 шт",
+        "description":  "Совок пластиковый для льда. Можно заказать вместе с доставкой льда",
+        "quantity": "1"
       }
     ]
 }
