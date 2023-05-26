@@ -2,9 +2,15 @@
   "products": 
     [
       {
-        "name": "Pizza",
-        "price": "10",
-        "quantity": "7"
+        "id": 1,
+        "name": "Хошизаки",
+        "route": "hoshizaki",
+        "price": 400.00,
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
+        "category": "Хошизаки",
+        "percentage": "10 кг",
+        "description":  "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
+        "quantity": 1
       },
       {
         "name": "Cerveja",
