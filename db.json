@@ -1,18 +1,27 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Хошизаки",
-      "price": 40,
-      "image": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
-      "descriptions": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      "id": 2,
-      "name": "Хошизаки",
-      "price": 40,
-      "image": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
-      "descriptions": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    }
-  ]
+  "products": 
+    [
+      {
+        "name": "Pizza",
+        "price": "10",
+        "quantity": "7"
+      },
+      {
+        "name": "Cerveja",
+        "price": "12",
+        "quantity": "5"
+      },
+      {
+        "name": "Hamburguer",
+        "price": "10",
+        "quantity": "2"
+      },
+      {
+        "name": "Fraldas",
+        "price": "6",
+        "quantity": "2"
+      }
+    ]
+
+  
 }
