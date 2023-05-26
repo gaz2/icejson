@@ -88,6 +88,28 @@
         "percentage": "16 шт",
         "description":  "Крафтовый лёд ручной работы в виде куба размером 5х5 см и весом 120г",
         "quantity": "1"
+      },
+      {
+        "id": 9, 
+        "name": "Шар 6 см",
+        "route": "shar-6-sm",
+        "price": "600",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/shar1.jpg",
+        "category": "Шар 6 см",
+        "percentage": "12 шт",
+        "description":  "Кастомный лёд ручной работы диаметр 6 см. Фасовка по 20шт в пакетах.",
+        "quantity": "1"
+      },
+      {
+        "id": 10,
+        "name": "Шар с цветком",
+        "route": "shar-s-cvetkom",
+        "price": "600",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/rozaIceBall.jpg",
+        "category": "Шар с цветком",
+        "percentage": "12 шт",
+        "description":  "Кастомный лёд ручной работы с розой внутри. Фасовка по 20шт в пакетах.",
+        "quantity": "1"
       }
     ]
 }
