@@ -7,18 +7,12 @@
       "image": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
       "descriptions": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
     },
-        {
-
+    {
       "id": 2,
-
       "name": "Хошизаки",
-
       "price": 40,
-
       "image": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
-
       "descriptions": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-
-    },
+    }
   ]
 }
