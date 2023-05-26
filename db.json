@@ -13,9 +13,15 @@
         "quantity": "1"
       },
       {
-        "name": "Cerveja",
-        "price": "12",
-        "quantity": "5"
+        "id": 2,
+        "name": "Гурмэ",
+        "route": "gurme",
+        "price": "350",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
+        "category": "Гурмэ",
+        "percentage": "10 кг",
+        "description":  "Премиальный конусный лёд в виде полнотелых цилиндров размером 30х34мм и весом 20г",
+        "quantity": "1"
       },
       {
         "name": "Hamburguer",
