@@ -2,14 +2,26 @@
   "products": 
     [
       {
-        "name": "Pizza",
-        "price": "10",
-        "quantity": "7"
+        "id": 1,
+        "name": "Хошизаки",
+        "route": "hoshizaki",
+        "price": "400",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
+        "category": "Хошизаки",
+        "percentage": "10 кг",
+        "description":  "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
+        "quantity": "1"
       },
       {
-        "name": "Cerveja",
-        "price": "12",
-        "quantity": "5"
+        "id": 2,
+        "name": "Гурмэ",
+        "route": "gurme",
+        "price": "350",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
+        "category": "Гурмэ",
+        "percentage": "10 кг",
+        "description":  "Премиальный конусный лёд в виде полнотелых цилиндров размером 30х34мм и весом 20г",
+        "quantity": "1"
       },
       {
         "name": "Hamburguer",
