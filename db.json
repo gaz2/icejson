@@ -44,6 +44,28 @@
         "percentage": "10 кг",
         "description":  "Дроблёный лёд мелкая фракция 3-5мм. Используется для коктейлей и лимонадов",
         "quantity": "1"
+      },
+      {
+        "id": 5,
+        "name": "Фасованный",
+        "route": "ice-fasovka",
+        "price": "180",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
+        "category": "Фасованный",
+        "percentage": "3 кг",
+        "description":  "Премиальный конусный лёд в пищевом пакете весом 3кг. Кубики 30х34мм и весом 20г",
+        "quantity": "1"
+      },
+      {
+        "id": 6,
+        "name": "Куб 4Х4",
+        "route": "cube-4x4-sm",
+        "price": "320",
+        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubebig1.jpg",
+        "category": "Куб 4Х4",
+        "percentage": "20 шт",
+        "description":  "Крафтовый лёд ручной работы в виде куба размером 4х4 см и весом 100г",
+        "quantity": "1"
       }
     ]
 }
