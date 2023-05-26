@@ -1,110 +1,24 @@
 {
   "products": [
     {
-      id: 1,
-      name: "Хошизаки",
-      price: 40,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-  
+      "id": 1,
+      "name": "Хошизаки",
+      "price": 40,
+      "image": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
+      "descriptions": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
     },
-    {
-      id: 2,
-      name: "Клише",
-      price: 40,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 3,
-      name: "Клише",
-      price: 40,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 4,
-      name: "Клише",
-      price: 40,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 5,
-      name: "Клише",
-      price: 40,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 6,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 7,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 8,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 9,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 10,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 11,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 12,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 13,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 14,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
-    },
-    {
-      id: 15,
-      name: "Клише",
-      price: 400.00,
-      image: "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-      descriptions: "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
+        {
+
+      "id": 2,
+
+      "name": "Хошизаки",
+
+      "price": 40,
+
+      "image": "https://raw.githubusercontent.com/gaz2/icejson/main/hoshizaki1.jpg",
+
+      "descriptions": "Премиальный  лёд в форме правильного кубика размером 32х32х32мм и весом 31 г.",
+
     },
   ]
 }
