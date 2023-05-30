@@ -25,7 +25,7 @@
       },
       {
         "id": 3,
-        "name": "Скотсмен-40р/1кг",
+        "name": "Скотсмен-35р/1кг",
         "route": "scotsman",
         "price": "350",
         "src": "https://raw.githubusercontent.com/gaz2/icejson/main/scotsmanIce2.jpg",
