@@ -16,7 +16,7 @@
         "id": 2,
         "name": "Гурмэ-35р",
         "route": "gurme",
-        "price": "35",
+        "price": "350",
         "src": "https://raw.githubusercontent.com/gaz2/icejson/main/gurmet1.jpg",
         "category": "Гурмэ",
         "percentage": "35 руб.1 кг",
