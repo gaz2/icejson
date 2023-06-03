@@ -59,20 +59,6 @@
       },
       {
         "id": 5,
-        "name": "Фасованный",
-        "route": "ice-fasovka",
-        "price": "180",
-        "weight": "1",
-        "massa": "кг",
-        "info": "доставка от 3 кг",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/iceBag10.jpg",
-        "category": "Фасованный",
-        "percentage": "Цена 180 руб за 3 кг",
-        "description":  "Премиальный конусный лёд в пищевом пакете весом 3кг. Кубики 30х34мм и весом 20г",
-        "quantity": "1"
-      },
-      {
-        "id": 6,
         "name": "Куб 4*4",
         "route": "cube-4x4-sm",
         "price": "20",
@@ -86,7 +72,7 @@
         "quantity": "1"
       },
       {
-        "id": 7,
+        "id": 6,
         "name": "Куб 5*5",
         "route": "cube-5x5-sm",
         "price": "20",
@@ -100,21 +86,7 @@
         "quantity": "1"
       },
       {
-        "id": 8,
-        "name": "Куб с цветком",
-        "route": "cube-s-cvetkom",
-        "price": "20",
-        "weight": "20",
-        "massa": "шт",
-        "info": "доставка от 20 шт.",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/cubeBigg.jpg",
-        "category": "Куб с цветком",
-        "percentage": "Цена 20 руб за 1 шт",
-        "description":  "Крафтовый лёд ручной работы в виде куба размером 5х5 см и весом 120г",
-        "quantity": "1"
-      },
-      {
-        "id": 9, 
+        "id": 7, 
         "name": "Шар 6см",
         "route": "shar-6-sm",
         "price": "20",
@@ -128,21 +100,7 @@
         "quantity": "1"
       },
       {
-        "id": 10,
-        "name": "Шар с цветком",
-        "route": "shar-s-cvetkom",
-        "price": "20",
-        "weight": "20",
-        "massa": "шт",
-        "info": "доставка от 20 шт.",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/rozaIceBall.jpg",
-        "category": "Шар с цветком",
-        "percentage": "Цена 20 руб за 1 шт",
-        "description":  "Кастомный лёд ручной работы с розой внутри. Фасовка по 20шт в пакетах.",
-        "quantity": "1"
-      },
-      {
-        "id": 11,
+        "id": 8,
         "name": "Брусок3х3х13-320р/20шт",
         "route": "brusok-3x3x13-sm",
         "price": "20",
@@ -156,7 +114,7 @@
         "quantity": "1"
       },
       {
-        "id": 12,
+        "id": 9,
         "name": "Брусок 4*4*10",
         "route": "brusok-4x4x10-sm",
         "price": "20",
@@ -167,62 +125,6 @@
         "category": "Брусок 4х4х10",
         "percentage": "Цена 20 руб за 1 шт",
         "description":  "Кастомный лёд ручной работы в виде бруска. Фасовка по 20шт в пакетах.",
-        "quantity": "1"
-      },
-      {
-        "id": 13,
-        "name": "Термобокс",
-        "route": "termokontainer",
-        "price": "500",
-        "weight": "1",
-        "massa": "шт",
-        "info": "доставка от 1 шт.",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/termoBox.jpg",
-        "category": "Термоконтейнер",
-        "percentage": "Цена 500 руб за 1 шт",
-        "description":  "Термобокс для хранения льда. Можно приобрести со льдом.",
-        "quantity": "1"
-      },
-      {
-        "id": 14,
-        "name": "Совок",
-        "route": "sovok",
-        "price": "100",
-        "weight": "1",
-        "massa": "шт",
-        "info": "доставка от 1 шт.",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/sovok.jpg",
-        "category": "Совок",
-        "percentage": "Цена 100 руб за 1 шт",
-        "description":  "Совок пластиковый для льда. Можно заказать вместе с доставкой льда",
-        "quantity": "1"
-      },
-      {
-        "id": 15,
-        "name": "Клише под заказ",
-        "route": "klishe",
-        "price": "400",
-        "info": "доставка от 1 шт.",
-        "massa": "шт",
-        "weight": "1",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/klisheIce.jpg",
-        "category": "Клише",
-        "percentage": "Цена 400 руб за 1 шт",
-        "description":  "Клише с помощью которого можно сделать рисунок на крафтовых кубиках льда",
-        "quantity": "1"
-      },
-      {
-        "id": 16,
-        "name": "Клише под заказ",
-        "route": "klishe",
-        "price": "400",
-        "weight": "1",
-        "massa": "шт",
-        "info": "доставка от 1 шт.",
-        "src": "https://raw.githubusercontent.com/gaz2/icejson/main/klisheIce.jpg",
-        "category": "Клише",
-        "percentage": "Цена 400 руб за 1 шт",
-        "description":  "Клише с помощью которого можно сделать рисунок на крафтовых кубиках льда",
         "quantity": "1"
       }
     ]
